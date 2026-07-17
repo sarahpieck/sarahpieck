@@ -17,7 +17,7 @@
 - 💻 Estudando **HTML, CSS e JavaScript** por conta própria, aplicando na prática
 - 🔍 Em busca da minha **primeira oportunidade na área de TI** (estágio)
 - 🎨 Também desenvolvo projetos criativos com IA generativa, incluindo um canal infantil animado
-- 🌱 Sempre aprendendo algo novo 
+- 🌱 Sempre aprendendo algo novo
 
 ---
 
@@ -30,15 +30,6 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=sarahpieck&show_icons=true&theme=default&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarahpieck&layout=compact&hide_border=true" />
 </p>
 
 ---
