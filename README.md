@@ -17,7 +17,7 @@
 - 💻 Estudando **HTML, CSS e JavaScript** por conta própria, aplicando na prática
 - 🔍 Em busca da minha **primeira oportunidade na área de TI** (estágio)
 - 🎨 Também desenvolvo projetos criativos com IA generativa, incluindo um canal infantil animado
-- 🌱 Sempre aprendendo algo novo
+- 🌱 Sempre aprendendo algo novo 
 
 ---
 
@@ -46,7 +46,7 @@
 ### 📫 Como me encontrar
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/SEU_LINKEDIN" target="_blank">
+  <a href="https://www.linkedin.com/in/sarah-silva-57158820a/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:saahsilva002@gmail.com">
