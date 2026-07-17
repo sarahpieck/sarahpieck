@@ -47,4 +47,4 @@
 
 ---
 
-<p align="center"><em>"Aprender a programar não é sobre saber tudo, é sobre não ter medo de procurar a resposta." 🚀</em></p>
+<p align="center"><em>"Projeto pessoal de estudo — Sarah" 🚀</em></p>
